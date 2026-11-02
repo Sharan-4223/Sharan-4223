@@ -81,12 +81,7 @@ TrafficSmart uses low-cost lane sensors and an ESP32 to:
 - Traffic Signal Automation
 - Live Dashboard
 
-**Project Objective:** To demonstrate how IoT can help create smarter and more efficient traffic management systems.
 
-<!-- Add your actual project screenshot to an assets folder in this repository. -->
-<p align="center">
-  <img src="assets/trafficsmart-dashboard.png" width="75%" alt="TrafficSmart Dashboard Screenshot - Replace with actual project screenshot" />
-</p>
 
 ---
 
@@ -136,15 +131,19 @@ TrafficSmart uses low-cost lane sensors and an ESP32 to:
 ---
 
 ## 📊 GitHub Statistics
+<div align="center">
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Sharan-4223&show_icons=true&theme=tokyonight&hide_border=true" height="165" alt="GitHub Statistics" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sharan-4223&layout=compact&theme=tokyonight&hide_border=true" height="165" alt="Most Used Languages" />
-</p>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Sharan-4223&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sharan-4223&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"/>
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?userSharan-4223&theme=tokyonight&hide_border=true" alt="GitHub Contribution Streak" />
-</p>
+</div>
+
+<div align="center">
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=Sharan-4223&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
+
+</div>
+
 
 ---
 
@@ -167,7 +166,7 @@ TrafficSmart uses low-cost lane sensors and an ESP32 to:
   <a href="mailto:assharan2009@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-Contact-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
-  <a href="https://github.com/YOUR_GITHUB_USERNAME">
+  <a href="https://github.com/Sharan-4223">
     <img src="https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github" alt="GitHub" />
   </a>
 </p>
