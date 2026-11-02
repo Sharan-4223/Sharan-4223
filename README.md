@@ -93,7 +93,7 @@ TrafficSmart uses low-cost lane sensors and an ESP32 to:
 ## 🏆 LeetCode Achievements
 
 <p align="center">
-  <img src="https://leetcard.jacoblin.cool/YOUR_LEETCODE_USERNAME?theme=dark&font=Baloo+Bhai+2&ext=contest" alt="LeetCode Statistics" />
+  <img src="https://leetcard.jacoblin.cool/Sharan-2009?theme=dark&font=Baloo+Bhai+2&ext=contest" alt="LeetCode Statistics" />
 </p>
 
 - Solved 200+ coding problems.
@@ -101,7 +101,7 @@ TrafficSmart uses low-cost lane sensors and an ESP32 to:
 - Earned the 50 Days Badge.
 - Continuously improving Data Structures and Algorithms skills.
 
-🔗 [Visit My LeetCode Profile](https://leetcode.com/YOUR_LEETCODE_USERNAME/)
+🔗 [Visit My LeetCode Profile](https://leetcode.com/Sharan-2009/)
 
 ---
 
@@ -138,12 +138,12 @@ TrafficSmart uses low-cost lane sensors and an ESP32 to:
 ## 📊 GitHub Statistics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" height="165" alt="GitHub Statistics" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true" height="165" alt="Most Used Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Sharan-4223&show_icons=true&theme=tokyonight&hide_border=true" height="165" alt="GitHub Statistics" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sharan-4223&layout=compact&theme=tokyonight&hide_border=true" height="165" alt="Most Used Languages" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true" alt="GitHub Contribution Streak" />
+  <img src="https://streak-stats.demolab.com?userSharan-4223&theme=tokyonight&hide_border=true" alt="GitHub Contribution Streak" />
 </p>
 
 ---
