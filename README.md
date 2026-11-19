@@ -8,20 +8,20 @@
 
 ---
 
-## 🚀 About Me
+##  About Me
 
 I'm a passionate first-year **B.E. Computer Science and Engineering (CSE – Core)** student at **Chennai Institute of Technology, Chennai**.
 
 I enjoy exploring technology, solving programming challenges, and building my technical knowledge through continuous learning and practical experience.
 
-- 🎓 Pursuing B.E. in Computer Science and Engineering (2026–2030).
-- 💻 Good working knowledge of Python and C++.
-- 🗄️ Strong skills in database management, especially MySQL.
-- 🧠 Solved **200+ problems on LeetCode**.
-- 🏆 LeetCode contest rating: **1400**.
-- 🔥 Earned the LeetCode 50 Days Badge.
-- 🌐 Exploring web technologies and real-world software projects.
-- 🎯 Aspiring to become a skilled software developer.
+-  Pursuing B.E. in Computer Science and Engineering (2026–2030).
+-  Good working knowledge of Python and C++.
+-  Strong skills in database management, especially MySQL.
+-  Solved **200+ problems on LeetCode**.
+-  LeetCode contest rating: **1400**.
+-  Earned the LeetCode 50 Days Badge.
+-  Exploring web technologies and real-world software projects.
+-  Aspiring to become a skilled software developer.
 
 ---
 
