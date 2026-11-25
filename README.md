@@ -42,7 +42,7 @@ I enjoy exploring technology, solving programming challenges, and building my te
 | **Tools & Platforms** | ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white) ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white) ![ChatGPT](https://img.shields.io/badge/ChatGPT-74AA9C?style=flat-square&logo=openai&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-00C4CC?style=flat-square&logo=canva&logoColor=white) |
 
 </div>
----
+
 
 ## 💡 Featured Project
 
@@ -118,21 +118,20 @@ TrafficSmart uses low-cost lane sensors and an ESP32 to:
 - Secondary (Class X): 84.8% (2024)
 
 ---
-
-## 📊 GitHub Statistics
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Sharan-4223&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sharan-4223&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"/>
-
-</div>
+### 📊 GitHub Analytics
 
 <div align="center">
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=Sharan-4223&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
-
+  <!-- Profile Stats & Top Languages -->
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=Sharan-4223&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Mohinth's GitHub Stats" height="175" />
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs?username=Sharan-4223&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="175" />
 </div>
 
+<br/>
+
+<div align="center">
+  <!-- Streak Stats Card -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sharan-4223&theme=tokyonight&hide_border=true" alt="Sharan's Contribution Streak" />
+</div>
 
 ---
 
