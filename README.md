@@ -25,34 +25,23 @@ I enjoy exploring technology, solving programming challenges, and building my te
 
 ---
 
-## 🛠️ Technical Skills
+### 🛠️ Languages & Technologies
 
-### Programming Languages
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=py,cpp,java,html,css,js,git,github,vscode,chatgpt,canva&theme=dark" alt="Tech Stack Icons" />
+</div>
 
-<p>
-  <img src="https://skillicons.dev/icons?i=python,cpp" alt="Python and C++" />
-</p>
+<br/>
 
-### Web Technologies
+<div align="center">
 
-<p>
-  <img src="https://skillicons.dev/icons?i=html" alt="HTML" />
-</p>
+| Category | Badges & Tools |
+| :--- | :--- |
+| **Languages** | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=c%2B%2B&logoColor=white) ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) |
+| **Frontend** | ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) |
+| **Tools & Platforms** | ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white) ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white) ![ChatGPT](https://img.shields.io/badge/ChatGPT-74AA9C?style=flat-square&logo=openai&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-00C4CC?style=flat-square&logo=canva&logoColor=white) |
 
-### Database
-
-<p>
-  <img src="https://skillicons.dev/icons?i=mysql" alt="MySQL" />
-</p>
-
-### Tools & Platforms
-
-<p>
-  <img src="https://skillicons.dev/icons?i=github,git,vscode" alt="GitHub, Git and VS Code" />
-</p>
-
-Also familiar with Microsoft Excel.
-
+</div>
 ---
 
 ## 💡 Featured Project
@@ -179,4 +168,8 @@ TrafficSmart uses low-cost lane sensors and an ESP32 to:
 
 <p align="center">
   ⭐ Thank you for visiting my GitHub profile!
+   <!-- Profile Visitor Counter -->
+  <a href="https://github.com/Mohinth-P-S">
+    <img src="https://komarev.com/ghpvc/?username=Mohinth-P-S&label=Profile%20Views&color=7aa2f7&style=flat-square" alt="Profile Views" />
+  </a>
 </p>
